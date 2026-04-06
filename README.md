@@ -29,9 +29,9 @@ The standard Windows workflow to fix this is tedious:
 
 ---
 
-### 📸 Visual Proof
-![PortDetective in Action](YOUR_GIF_URL_HERE)
-*Fixing an EADDRINUSE error in 2 seconds without leaving your IDE.*
+### 📸 Visuals
+![PortDetective Main UI](port-detective-main-ui.png)
+
 
 ---
 
